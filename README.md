@@ -71,4 +71,31 @@ This project aimed to explore how various personal and lifestyle factors—parti
   c. Visualisation techniques like box plots, histograms, and correlation matrices are powerful for communicating insights      
   d. Further work could include predictive modeling (e.g., linear regression, decision trees) 
 
+  
+  
+### Attributions
+
+This project was completed with the support of the following tools and platforms:
+
+-  [ChatGPT](https://chat.openai.com/) — for guidance, code explanations, and debugging support throughout the project.
+-  [GitHub Copilot](https://github.com/features/copilot) — for autocomplete suggestions and boilerplate code generation.
+-  [Code Institute](https://codeinstitute.net/) — for foundational training in Python, data analysis, and project structure best practices.
+-  [Plotly](https://plotly.com/python/) — for interactive data visualizations.
+-  [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), and [Seaborn](https://seaborn.pydata.org/) — for data analysis and static visualizations.
+
+> This project was done for educational purposes as part of a personal data analysis portfolio.
+Tips
+
+
+
+
+
+
+
+
+
+
+
+
+
 
