@@ -59,15 +59,16 @@ This project aimed to explore how various personal and lifestyle factors—parti
 
   The correlation matrix revealed:
 
-  a) A strong positive correlation between age and charges
-  b) BMI and number of children had weaker or no significant linear correlation with charges
-  c) Smoker status had a noticeable impact but is a categorical variable, so it doesn't reflect directly in the correlation coefficients.
+  a. A strong positive correlation between age and charges
+  b. BMI and number of children had weaker or no significant linear correlation with charges
+  c. Smoker status had a noticeable impact but is a categorical variable, so it doesn't reflect directly in the correlation coefficients.
 
 
 - Final Takeaways:
-  Smoking is the most impactful lifestyle factor in this dataset, strongly associated with higher insurance costs.
-  Age and smoking status should be key features in any predictive pricing model for insurance.
-  Visualization techniques like box plots, histograms, and correlation matrices are powerful for communicating insights clearly and quickly.
-  Further work could include predictive modeling (e.g., linear regression, decision trees) to estimate charges based on multiple features.
+
+  a. Smoking is the most impactful lifestyle factor in this dataset, strongly associated with higher insurance costs.
+  b. Age and smoking status should be key features in any predictive pricing model for insurance.
+  c. Visualisation techniques like box plots, histograms, and correlation matrices are powerful for communicating insights      
+  d. Further work could include predictive modeling (e.g., linear regression, decision trees) 
 
 
